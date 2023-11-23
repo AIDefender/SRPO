@@ -23,9 +23,11 @@ python examples/train_d4rl.py --algo_name=maple_st --exp_name=maple_st --seed 1 
 
 If you find our code repository or paper useful, please cite with:
 
+```
 @article{xue2023state,
   title={State Regularized Policy Optimization on Data with Dynamics Shift},
   author={Xue, Zhenghai and Cai, Qingpeng and Liu, Shuchang and Zheng, Dong and Jiang, Peng and Gai, Kun and An, Bo},
   journal={arXiv preprint arXiv:2306.03552},
   year={2023}
 }
+```
