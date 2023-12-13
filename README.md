@@ -1,5 +1,7 @@
 # SRPO
-[NeurIPS 2023] The official code for paper ["State Regularized Policy Optimization on Data with Dynamics Shift"](https://arxiv.org/abs/2306.03552).
+[NeurIPS 2023] The official code for paper "State Regularized Policy Optimization on Data with Dynamics Shift".
+
+[[PDF]](https://arxiv.org/abs/2306.03552) [[Poster Page]](https://neurips.cc/virtual/2023/poster/72138) [[Openreview]](https://openreview.net/forum?id=I8t9RKDnz2)
 
 
 ## Installation
